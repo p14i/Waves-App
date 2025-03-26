@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;1,300&family=Funnel+Display:wght@300..800&family=Tangerine:wght@400;700&display=swap');
+
+/* App.css */
+#root {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-weight: 300;}
+.custom-navbar {
+  background-color: #ecf0f1 !important; 
+  width: 100vw !important;
+  margin: 0;
+  padding: 10px;
+}
+
+.celebrities-container{
+  background-color: #137dc5 !important; 
+  margin: auto;
+
+}
+.resources-info-text{
+  color: gray !important; 
+}
+
+.resources-container{
+  color: #137dc5 !important; 
+  margin-top: 10px;
+}
+
+.custom-navbar .navbar-brand,
+.custom-navbar .nav-link,
+.custom-navbar .nav-dropdown,.mood-selector-heading {
+  color: #137dc5 !important;
+}
+
+.me-auto
+{
+  padding: 10px;
+
+}
+.custom-navbar .nav-link:hover,
+.custom-navbar .navbar-brand:hover {
+  color: #0c4f7d !important; /* Example: Gold on hover */
+  width: auto;
+  transform: scale(1.1);
+
+}
+
+.custom-feelsbar{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  width: fit-content;
+   align-items: center;}
+
+.celebrity-info-heading, .carousal-compoenent,h5,p,custom-feelsbar{
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-weight: 300;
+  color: #ecf0f1 !important;
+  
+}
+p{
+  font-style: italic;  
+}
+
+.custom-button-text{
+  color: #137dc5 !important;
+}

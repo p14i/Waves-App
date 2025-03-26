@@ -1,0 +1,24 @@
+.celebrity-card {
+    width: 18rem;
+    margin: auto;
+    padding: 1em;
+    margin-top: 1px;
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-weight: 300;
+    color: #137dc5 !important;
+    background-color: #fff !important;
+    height: 510px;
+    
+  }
+  
+  .card-text{
+    font-size: 14px;
+  }
+  .celebrity-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+  }
+
+  .card-Img{
+    height: 310px;
+  }
