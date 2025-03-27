@@ -62,7 +62,7 @@ function CelebrityList() {
   return (
     <>
     
-      <Container className='celebrities-container '>
+      <Container className='celebrities-container'>
       <h1 className="text-xl font-bold mb-4 celebrity-info-heading">Celebrities With Bipolar</h1>
        <span className='mt-3 celebrity-info-heading'>There are lots of famous people that have also struggled with bipolar disorder, here are some quotes and information to make you feel less alone and more hopeful. </span>
        <Row className="mt-4" lg={4} md={2} xs={1}>
